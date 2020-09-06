@@ -7,4 +7,5 @@ dependencies:
   - nbconvert
   - r-cluster
   - r-fpc
+  - r-factoextra
   
